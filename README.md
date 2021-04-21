@@ -1,2 +1,2 @@
 # MapReduceTest
-java mapreduce test
+java mapreduce api test
